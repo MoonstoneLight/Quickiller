@@ -438,7 +438,7 @@ void Thread::search() {
       for (RootMove& rm : rootMoves)
           rm.previousScore = rm.score;
 	  
-	  Value bestScore = rootMoves[0].previousScore;
+      Value bestScore = rootMoves[0].previousScore;
 
       size_t pvFirst = 0;
       pvLast = 0;
