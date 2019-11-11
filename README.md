@@ -51,7 +51,7 @@ Recommended values: from 2 to 5 ( > 5 too wide search width).
 
 ### NN section (Experimental Neural Networks inspired technics)
 Experimental, MonteCarloTreeSearch, if activated, the engine's behaviour is similar to AlphaZero concepts.
-Idea are implemented, integrated on Crystal-NN:
+Idea are implemented, integrated on Quickiller:
 	
 ### NN Persisted Self-Learning
 _Boolean, Default: false_
